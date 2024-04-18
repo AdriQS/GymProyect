@@ -1,0 +1,12 @@
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/Model.csproj.AssemblyReference.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/Model.AssemblyInfoInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/Model.AssemblyInfo.cs
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/Model.csproj.CoreCompileInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/bin/Debug/net7.0/Model.deps.json
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/bin/Debug/net7.0/Model.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/bin/Debug/net7.0/Model.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/Model.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/refint/Model.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/Model.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/Model/obj/Debug/net7.0/ref/Model.dll

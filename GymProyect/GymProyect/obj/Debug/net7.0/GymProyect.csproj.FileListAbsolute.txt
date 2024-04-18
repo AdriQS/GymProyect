@@ -1,0 +1,15 @@
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/bin/Debug/net7.0/GymProyect
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/bin/Debug/net7.0/GymProyect.deps.json
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/bin/Debug/net7.0/GymProyect.runtimeconfig.json
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/bin/Debug/net7.0/GymProyect.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/bin/Debug/net7.0/GymProyect.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.csproj.AssemblyReference.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.AssemblyInfoInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.AssemblyInfo.cs
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.csproj.CoreCompileInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/refint/GymProyect.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/GymProyect.genruntimeconfig.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/GymProyect/obj/Debug/net7.0/ref/GymProyect.dll

@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="Proyect">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Model/Plan.cs">
+    <Files>
+      <File FileName="DataAccess/CRUD/UserCRUD.cs" />
+      <File FileName="CoreApp/UserManager.cs" />
+      <File FileName="Model/User.cs" />
+      <File FileName="WebAPI/Controllers/UserController.cs" />
+      <File FileName="Model/Plan.cs" Line="12" Column="1" />
+      <File FileName="DataAccess/CRUD/PlanCRUD.cs" />
+      <File FileName="CoreApp/PlanManager.cs" />
+      <File FileName="WebAPI/Controllers/PlanController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GymProyect" expanded="True">
+            <Node name="CoreApp_3" expanded="True" />
+            <Node name="DataAccess_2" expanded="True">
+              <Node name="DataAccess" expanded="True">
+                <Node name="CRUD" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Model_1" expanded="True">
+              <Node name="Model" expanded="True">
+                <Node name="Plan.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="WebAPI_4" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebAPI__4.WebAPI PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebApp__5.WebApp PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Proyect" Name="Proyect">
+      <Items>
+        <StartupItem ItemId="{53496FB8-E3DC-4FDB-83B6-1869660679E2}" ItemName="WebAPI" ConfigurationId="https" />
+        <StartupItem ItemId="{A5159B56-9FFA-4F9E-8408-ACB3DF2ED637}" ItemName="WebApp" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.GymProyect PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

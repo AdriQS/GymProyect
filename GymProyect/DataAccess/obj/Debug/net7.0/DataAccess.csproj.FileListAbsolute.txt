@@ -1,0 +1,15 @@
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/bin/Debug/net7.0/Model.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/bin/Debug/net7.0/Model.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete

@@ -1,0 +1,17 @@
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/bin/Debug/net7.0/CoreApp.deps.json
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/bin/Debug/net7.0/CoreApp.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/bin/Debug/net7.0/CoreApp.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.csproj.AssemblyReference.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.AssemblyInfoInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.AssemblyInfo.cs
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.csproj.CoreCompileInputs.cache
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/refint/CoreApp.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/ref/CoreApp.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/bin/Debug/net7.0/DataAccess.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/bin/Debug/net7.0/Model.dll
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/bin/Debug/net7.0/Model.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/bin/Debug/net7.0/DataAccess.pdb
+/Users/adrox/Documents/Cuatrimestre_4/DYCC/GymProyect/CoreApp/obj/Debug/net7.0/CoreApp.csproj.CopyComplete
